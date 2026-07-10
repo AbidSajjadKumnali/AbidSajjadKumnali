@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Abid%20Sajjad%20Kumnali&fontSize=42&fontColor=0d1117&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Building%20with%20AI%20%26%20Full%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/AbidSajjadKumnali">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Full+Stack+Developer;Building+Agentic+AI+Systems+with+LangChain+%26+RAG;Python+%2B+TypeScript+%2B+React+%2B+Docker;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=CS+Student;Full+Stack+Developer;Open+to+Work" alt="Typing SVG" />
 </a>
 
 <br/>
