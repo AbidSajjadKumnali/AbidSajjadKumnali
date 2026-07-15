@@ -112,7 +112,7 @@ A dashboard for monitoring and observing the behavior of AI agents, built with T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbidSajjadKumnali&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbidSajjadKumnali&show_icons=true&theme=github_dark" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidSajjadKumnali&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=AbidSajjadKumnali&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" width="70%" />
