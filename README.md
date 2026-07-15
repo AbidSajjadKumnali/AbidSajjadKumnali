@@ -77,8 +77,7 @@ A blockchain-based system for secure and transparent medical record management, 
 
 A dashboard for monitoring and observing the behavior of AI agents, built with TypeScript.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbidSajjadKumnali&repo=agent-observability-dashboard&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abidSajjadKumnali&amp;repo=medical-blockchain-system&amp;theme=nord&amp;border_color=7dd3fc&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;bg_color=0d1117" />
 | Layer | Technology |
 |---|---|
 | Core Language | TypeScript |
